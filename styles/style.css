@@ -91,16 +91,8 @@
   left: 64px;
 }
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
-
 .description {
-  padding: 100px 0;
+  margin: 100px 0;
   display: flex;
   justify-content: center;
 }
@@ -140,7 +132,7 @@
 }
 
 .digits {
-  padding: 100px 0;
+  margin: 100px 0;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -230,5 +222,65 @@
   color:  #2f80ed ;
 }
 
+.kaufman {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #1f1f1f;
+  padding: 90px 0;
+  position: relative;
+  overflow: hidden;
+}
 
+.section-title_theme_dark {
+  color: white;
+  line-height: 1.15em;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.section-subtitle_theme_dark {
+  color: white;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.table_theme_dark {
+  position: relative;
+  z-index: 1000;
+}
+
+/* и элемента с модификатором вида ключ-значение */
+.table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  /* margin-right: 0; */
+  /* margin-top: 80px; */
+}
+
+.table__heading_theme_dark {
+  color: white;
+  line-height: 1.15em;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.table__text_theme_dark p {
+  color: white;
+  line-height: 1.2em;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.kaufman__triangle {
+  position: absolute;
+  width: 877px;
+  height: 877px;
+  top: 0;
+  right: -210px;
+  background-image: url("../images/kaufman-triangle.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
 
