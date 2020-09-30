@@ -139,3 +139,54 @@
   font-weight: bold;
 }
 
+.digits {
+  padding: 100px 0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.section-title {
+  display: inline-block;
+  width: 60%;
+  text-align: center;
+  margin-bottom: 20px;
+  line-height: 1.15em;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.section-subtitle {
+  display: inline-block;
+  width: 60%;
+  text-align: center;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.table {
+  width: 1100px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.table__cell {
+  width: 250px;
+  margin-top: 60px;
+}
+
+.table__heading {
+  line-height: 1.15em;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.table__text p {
+  margin-top: 20px;
+  line-height: 1.2em;
+  font-size: 18px;
+  font-weight: normal;
+}
+
