@@ -275,7 +275,7 @@ p, ul, li {
   font-weight: bold;
 }
 
-.table__text_theme_dark p {
+.table__text_theme_dark {
   color: white;
   line-height: 1.2;
   font-size: 18px;
@@ -342,7 +342,7 @@ p, ul, li {
   list-style: none;
 }
 
-.footer__column-links a {
+.footer__column-link {
   color: white;
   text-decoration: none;
   line-height: 30px;
