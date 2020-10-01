@@ -78,6 +78,7 @@ p, ul, li {
 }
 
 .logo {
+  display: inline-block;
   width: 183px;
   height: 32px;
 }
