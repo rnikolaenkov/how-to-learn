@@ -1,3 +1,8 @@
+p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
 .background-gray {
   background: #f2f2f2;
 }
@@ -106,7 +111,7 @@
   width: 175px;
   display: block;
   font-size: 18px;
-  line-height: 1.2em;
+  line-height: 1.2;
   font-weight: normal;
   color: #2f80ed;
 }
@@ -142,7 +147,7 @@
   width: 60%;
   text-align: center;
   margin-bottom: 20px;
-  line-height: 1.15em;
+  line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
 }
@@ -169,14 +174,14 @@
 }
 
 .table__heading {
-  line-height: 1.15em;
+  line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
 }
 
 .table__text p {
   margin-top: 20px;
-  line-height: 1.2em;
+  line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
 }
@@ -200,7 +205,7 @@
   width: 648px;
   text-align: center;
   margin-bottom: 70px;
-  line-height: 1.15em;
+  line-height: 1.15;
   font-size: 120px;
   font-weight: bold;
 }
@@ -234,7 +239,7 @@
 
 .section-title_theme_dark {
   color: white;
-  line-height: 1.15em;
+  line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
 }
@@ -261,14 +266,14 @@
 
 .table__heading_theme_dark {
   color: white;
-  line-height: 1.15em;
+  line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
 }
 
 .table__text_theme_dark p {
   color: white;
-  line-height: 1.2em;
+  line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
 }
@@ -331,8 +336,6 @@
 
 .footer__column-links {
   list-style: none;
-  margin: 0;
-  padding: 0;
 }
 
 .footer__column-links a {
