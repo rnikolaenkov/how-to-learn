@@ -242,6 +242,8 @@ p, ul, li {
   line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
+  position: relative;
+  z-index: 1000;
 }
 
 .section-subtitle_theme_dark {
@@ -249,6 +251,8 @@ p, ul, li {
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  position: relative;
+  z-index: 1000;
 }
 
 .table_theme_dark {
