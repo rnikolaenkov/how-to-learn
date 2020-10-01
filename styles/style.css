@@ -188,7 +188,7 @@ p, ul, li {
 
 .feinman {
   box-sizing: border-box;
-  height: 790px;
+  min-height: 790px;
   display: flex;
   flex-direction: column;
   align-items: center;
