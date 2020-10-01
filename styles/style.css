@@ -39,6 +39,7 @@ p, ul, li {
 }
 
 .header__subtitle {
+  display: inline-block;
   position: absolute;
   left: 64px;
   bottom: 30px;
