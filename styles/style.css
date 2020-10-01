@@ -179,7 +179,7 @@ p, ul, li {
   font-weight: bold;
 }
 
-.table__text p {
+.table__text {
   margin-top: 20px;
   line-height: 1.2;
   font-size: 18px;
