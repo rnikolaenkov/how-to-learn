@@ -3,10 +3,6 @@ p, ul, li {
   padding: 0;
 }
 
-.background-gray {
-  background: #f2f2f2;
-}
-
 .page {
   min-width: 1100px;
   /* мы ещё не умеем делать мобильную версию сайта, */
@@ -21,6 +17,7 @@ p, ul, li {
 
 .header {
   box-sizing: border-box;
+  background: #f2f2f2;
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
@@ -188,6 +185,7 @@ p, ul, li {
 
 .feinman {
   box-sizing: border-box;
+  background: #f2f2f2;
   min-height: 790px;
   display: flex;
   flex-direction: column;
