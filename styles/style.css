@@ -3,12 +3,7 @@
 
 
 
-.digits {
-  margin: 100px 0;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
+
 
 .section-title {
   display: inline-block;
