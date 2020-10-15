@@ -7,15 +7,7 @@
 
 
 
-.section-subtitle {
-  display: inline-block;
-  width: 60%;
-  text-align: center;
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-  margin: 0;
-}
+
 
 .table {
   width: 1100px;
@@ -103,14 +95,6 @@
 
 
 
-.section-subtitle_theme_dark {
-  color: white;
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-  position: relative;
-  z-index: 1000;
-}
 
 .table_theme_dark {
   position: relative;
