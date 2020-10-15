@@ -1,44 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
-.table {
-  width: 1100px;
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.table__cell {
-  width: 250px;
-  margin: 60px 0 0;
-  padding: 0;
-}
-
-.table__heading {
-  margin: 0;
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: bold;
-}
-
-.table__text {
-  margin: 20px 0 0;
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
-}
-
 .feinman {
   box-sizing: border-box;
   background: #f2f2f2;
@@ -96,32 +57,12 @@
 
 
 
-.table_theme_dark {
-  position: relative;
-  z-index: 1000;
-}
 
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  /* margin-right: 0; */
-  /* margin-top: 80px; */
-}
 
-.table__heading_theme_dark {
-  color: white;
-  line-height: 1.15;
-  font-size: 24px;
-  font-weight: bold;
-}
 
-.table__text_theme_dark {
-  color: white;
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
-}
+
+
+
 
 .kaufman__triangle {
   position: absolute;
