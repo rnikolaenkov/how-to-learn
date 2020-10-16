@@ -6,8 +6,3 @@
   color: #2f80ed;
   height: 100%;
 }
-
-.khan__buy-link:hover {
-  opacity: 0.6;
-  transition: opacity 0.2s;
-}

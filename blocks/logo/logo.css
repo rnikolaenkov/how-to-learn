@@ -3,8 +3,3 @@
   width: 183px;
   height: 32px;
 }
-
-.logo:hover {
-  opacity: 0.6;
-  transition: opacity 0.2s;
-}
