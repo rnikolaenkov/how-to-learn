@@ -5,4 +5,5 @@
   font-weight: normal;
   color: #2f80ed;
   height: 100%;
+  transition: opacity 0.2s;
 }

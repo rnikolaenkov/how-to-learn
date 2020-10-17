@@ -4,4 +4,5 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
+  transition: opacity 0.2s;
 }

@@ -1,4 +1,5 @@
 .logo {
   display: inline-block;
   width: 183px;
+  transition: opacity 0.2s;
 }
