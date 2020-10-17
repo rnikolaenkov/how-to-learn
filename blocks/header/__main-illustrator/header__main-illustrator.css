@@ -5,8 +5,4 @@
   right: 0;
   bottom: 0;
   z-index: 1;
-  background-image: url("../../../images/header-image.png");
-  background-size: contain;
-  background-position: bottom right;
-  background-repeat: no-repeat;
 }
